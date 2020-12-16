@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <!--
-**JosXa/JosXa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=JosXa&show_icons=true&hide_border=false)
+
