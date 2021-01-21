@@ -1,3 +1,16 @@
+[⭐️ Repos I think deserve a star](https://github.com/JosXa/awesome-stars)
+
+---
+
+
+
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=JosXa&show_icons=true&hide_border=false)
+
+
+
+
+
+
 
 
 <!--
@@ -14,6 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=JosXa&show_icons=true&hide_border=false)
-
